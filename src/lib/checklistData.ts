@@ -628,4 +628,8 @@ export const resources = [
     title: 'Safe Utils',
     url: 'https://safeutils.openzeppelin.com/'
   },
+  {
+    title: 'Wise Signer: Gamified Transaction Verification',
+    url: "https://wise-signer.cyfrin.io/"
+  }
 ];
