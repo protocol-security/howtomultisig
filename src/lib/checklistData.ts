@@ -609,16 +609,12 @@ export const checklistItems: ChecklistItem[] = [
 
 export const resources = [
   {
-    title: 'Verify safe creation',
-    url: 'https://help.safe.global/en/articles/40834-verify-safe-creation'
-  },
-  {
     title: 'Basic Transaction Checks',
-    url: 'https://help.safe.global/en/articles/276343-how-to-perform-basic-transactions-checks-on-safe-wallet'
+    url: 'https://help.safe.global/articles/2485383995-how-to-perform-basic-transactions-checks-on-safewallet'
   },
   {
     title: 'Hardware Wallet Verification',
-    url: 'https://help.safe.global/en/articles/276344-how-to-verify-safe-wallet-transactions-on-a-hardware-wallet'
+    url: 'https://help.safe.global/articles/4369997924-how-to-verify-safewallet-transactions-on-a-hardware-wallet'
   },
   {
     title: 'Safe Transaction Hash Utility',
